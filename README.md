@@ -28,7 +28,7 @@ This project was developed collaboratively, combining database management and we
 - Web-based user interface
 - Data insertion, retrieval, updating, and deletion using SQL
 
-*Note: Features listed above should reflect the functionalities implemented in the actual project.*
+
 
 ## 🗄️ Database Implementation
 
@@ -113,8 +113,7 @@ This project was collaboratively developed by:
 
 ## 📄 License
 
-This project was developed for academic and educational purposes. Please contact the original project contributors before reusing or redistributing the project.
-
+This project was developed for academic and educational purposes.
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
